@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationServices", "NotificationServices\NotificationServices.csproj", "{F99CFF80-AAB4-492A-BD44-E248F3F59EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationServicesTest", "NotificationServicesTest\NotificationServicesTest.csproj", "{5DDD4FFB-90A6-4223-BE41-26A74B4070C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99CFF80-AAB4-492A-BD44-E248F3F59EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99CFF80-AAB4-492A-BD44-E248F3F59EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99CFF80-AAB4-492A-BD44-E248F3F59EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99CFF80-AAB4-492A-BD44-E248F3F59EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DDD4FFB-90A6-4223-BE41-26A74B4070C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDD4FFB-90A6-4223-BE41-26A74B4070C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDD4FFB-90A6-4223-BE41-26A74B4070C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDD4FFB-90A6-4223-BE41-26A74B4070C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

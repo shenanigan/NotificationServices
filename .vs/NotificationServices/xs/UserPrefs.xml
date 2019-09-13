@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PushNotifications/AWSPushNotificationSender.cs">
+    <Files>
+      <File FileName="Email/IEmailSender.cs" Line="8" Column="6" />
+      <File FileName="PushNotifications/AWSPushNotificationSender.cs" Line="66" Column="37" />
+      <File FileName="Models/SNS.cs" />
+      <File FileName="Models/APNS.cs" />
+      <File FileName="Models/GCM.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotificationServices" expanded="True">
+            <Node name="NotificationServices" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Email" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="PushNotifications" expanded="True">
+                <Node name="AWSPushNotificationSender.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/bin/Debug/netcoreapp2.2/NotificationServicesTest.deps.json
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/bin/Debug/netcoreapp2.2/NotificationServicesTest.runtimeconfig.json
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/bin/Debug/netcoreapp2.2/NotificationServicesTest.runtimeconfig.dev.json
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/bin/Debug/netcoreapp2.2/NotificationServicesTest.dll
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/bin/Debug/netcoreapp2.2/NotificationServicesTest.pdb
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/obj/Debug/netcoreapp2.2/NotificationServicesTest.csprojAssemblyReference.cache
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/obj/Debug/netcoreapp2.2/NotificationServicesTest.csproj.CoreCompileInputs.cache
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/obj/Debug/netcoreapp2.2/NotificationServicesTest.AssemblyInfoInputs.cache
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/obj/Debug/netcoreapp2.2/NotificationServicesTest.AssemblyInfo.cs
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/obj/Debug/netcoreapp2.2/NotificationServicesTest.dll
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/obj/Debug/netcoreapp2.2/NotificationServicesTest.pdb
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/bin/Debug/netcoreapp2.2/NotificationServices.dll
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/bin/Debug/netcoreapp2.2/NotificationServices.pdb
+/Users/arjav/Development/dotnet/NotificationServices/NotificationServicesTest/obj/Debug/netcoreapp2.2/NotificationServicesTest.csproj.CopyComplete

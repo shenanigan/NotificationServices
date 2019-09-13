@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "6e30633eb606d7deb72c44019c9f7b48c616688a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "NotificationServices/1.0.3": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.35",
+          "AWSSDK.SimpleEmail": "3.3.101.41",
+          "AWSSDK.SimpleNotificationService": "3.3.101.60",
+          "NETStandard.Library": "2.0.3",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "NotificationServices.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.103.35": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.103.35"
+          }
+        }
+      },
+      "AWSSDK.SimpleEmail/3.3.101.41": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.35"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SimpleEmail.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.41"
+          }
+        }
+      },
+      "AWSSDK.SimpleNotificationService/3.3.101.60": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.35"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SimpleNotificationService.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.60"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotificationServices/1.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.103.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r7QCMMPwolRiSNPrJlPvC8B8ObTGTMY1Mkv3/X5sLcbrpW6dmWAf+eGZmlOChcZBFmQ4WemraMZ/20ng6f9IuQ==",
+      "path": "awssdk.core/3.3.103.35",
+      "hashPath": "awssdk.core.3.3.103.35.nupkg.sha512"
+    },
+    "AWSSDK.SimpleEmail/3.3.101.41": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nt7eiHPILbzAthmEHV52PUhj40RSo+1szEYzpLDIU213Of+e1Rv3PYmxuJcFF3G/UvX6QbWt4JMeKrLCmSccdw==",
+      "path": "awssdk.simpleemail/3.3.101.41",
+      "hashPath": "awssdk.simpleemail.3.3.101.41.nupkg.sha512"
+    },
+    "AWSSDK.SimpleNotificationService/3.3.101.60": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qMWlGL7PII9nkkLxSzmdL5ivQl6cRbdcZuj5BdbH4jfuDkMXHCS61jUcr8XzALIgUEilg43tnWFJni0y4Yr5vw==",
+      "path": "awssdk.simplenotificationservice/3.3.101.60",
+      "hashPath": "awssdk.simplenotificationservice.3.3.101.60.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    }
+  }
+}

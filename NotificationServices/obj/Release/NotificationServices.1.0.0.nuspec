@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NotificationServices</id>
+    <version>1.0.0</version>
+    <authors>Arjav Dave</authors>
+    <owners>Arjav Dave</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>A simple to use package to send out notifications via email, sms and push notifications. Just pass the credentials and 
+      you should be good to go.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="AWSSDK.Core" version="3.3.103.35" exclude="Build,Analyzers" />
+        <dependency id="AWSSDK.SimpleEmail" version="3.3.101.41" exclude="Build,Analyzers" />
+        <dependency id="AWSSDK.SimpleNotificationService" version="3.3.101.60" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/arjav/Development/dotnet/NotificationServices/bin/Release/netstandard2.0/NotificationServices.dll" target="lib/netstandard2.0/NotificationServices.dll" />
+  </files>
+</package>

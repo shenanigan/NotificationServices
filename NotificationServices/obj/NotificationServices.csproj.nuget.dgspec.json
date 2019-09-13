@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/arjav/Development/dotnet/NotificationServices/NotificationServices/NotificationServices.csproj": {}
+  },
+  "projects": {
+    "/Users/arjav/Development/dotnet/NotificationServices/NotificationServices/NotificationServices.csproj": {
+      "version": "1.0.3",
+      "restore": {
+        "projectUniqueName": "/Users/arjav/Development/dotnet/NotificationServices/NotificationServices/NotificationServices.csproj",
+        "projectName": "NotificationServices",
+        "projectPath": "/Users/arjav/Development/dotnet/NotificationServices/NotificationServices/NotificationServices.csproj",
+        "packagesPath": "/Users/arjav/.nuget/packages/",
+        "outputPath": "/Users/arjav/Development/dotnet/NotificationServices/NotificationServices/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/arjav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.3.103.35, )"
+            },
+            "AWSSDK.SimpleEmail": {
+              "target": "Package",
+              "version": "[3.3.101.41, )"
+            },
+            "AWSSDK.SimpleNotificationService": {
+              "target": "Package",
+              "version": "[3.3.101.60, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
